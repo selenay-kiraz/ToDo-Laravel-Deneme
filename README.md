@@ -1,3 +1,4 @@
-# ToDo-Laravel-Deneme-1
+# ToDo-Laravel-Deneme-2
+
 
 Laravel kullanarak todolist denendi.
